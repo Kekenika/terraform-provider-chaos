@@ -15,7 +15,7 @@ func resourceChaosPlanFailure() *schema.Resource {
 			"name": {
 				Type:        schema.TypeString,
 				ForceNew:    true,
-				Description: "Name of the collection.",
+				Description: "Name of the resource",
 				Required:    true,
 			},
 		},
