@@ -23,7 +23,7 @@ resource "chaos_plan_failure" "my_failure" {
 
 ### Required
 
-- **name** (String) Name of the collection.
+- **name** (String) Name of the resource
 
 ### Optional
 
